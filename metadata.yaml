@@ -5,12 +5,17 @@ contributor:
     agent_name: Berryman, Clifford K.
     gutenberg_agent_id: '55537'
     url: http://www.gutenberg.org/2009/agents/55537
+covers:
+- cover_type: archival
+  image_path: 70004-h/images/cover.jpg
 creator:
   author:
     agent_name: White, Mary Josephine
     gutenberg_agent_id: '55536'
     url: http://www.gutenberg.org/2009/agents/55536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70004#Raggety-b-His-life-and-adventures
 gutenberg_issued: '2023-02-10'
 identifiers:
   gutenberg: '70004'
